@@ -1,4 +1,7 @@
+% Example obtained from http://campbellhennessy.com/2013/07/06/making-your-resume-beautiful-and-maintainable-with-latex/
+
 % Modified Jul 5,2013
+
  
 \documentclass[10pt, letterpaper, oneside]{article}
  
